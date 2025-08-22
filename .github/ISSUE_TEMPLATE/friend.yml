@@ -6,7 +6,7 @@ body:
   id: "yml-1"
   attributes:
     label: "你的网站链接"
-    description: "详细描述具体表现。"
+    description: ""
   validations:
     required: true
 - type: textarea
