@@ -125,4 +125,4 @@ additional_injections:
   head: "" # 搜索引擎验证，或是追加的样式表
   footer: ""
   after_footer: 
-    - "/assets/script/GmAlert.js"
+    # - "/assets/script/GmAlert.js"
